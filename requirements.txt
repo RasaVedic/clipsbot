@@ -1,0 +1,12 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+pyyaml
+pydantic==1.10.12
+requests==2.31.0
+yt-dlp==2025.08.27
+scenedetect==0.7.4
+openai-whisper==20230314
+numpy==1.26.4
+tqdm==4.65.0
+python-dotenv==1.0.0
