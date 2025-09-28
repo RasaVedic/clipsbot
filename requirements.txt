@@ -5,7 +5,8 @@ pyyaml
 pydantic==1.10.12
 requests==2.31.0
 yt-dlp==2025.08.27
-scenedetect==0.7.4
+# scenedetect==0.7.4   <- replace or comment out
+scenedetect>=0.6.7,<0.7
 openai-whisper==20230314
 numpy==1.26.4
 tqdm==4.65.0
